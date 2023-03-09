@@ -24,7 +24,12 @@ Primerno za demonstracijo storitve.
 
 > Program je namenjen za uporabo kot ločena storitev v Dokerju
 
-Še v obdelavi ...
+Zaganjanje CLI programa:
+```
+$ python3 cli.py
+```
+
+_* Trenutno izbrana baza je testna. Povezava do produkcijske baze je zakomentirana v kodi_
 
 ---
 
@@ -37,3 +42,7 @@ Primerno za demonstracijo storitve.
 - spol
 - etnična skupina
 - izražena čustva na sliki
+
+### Postopek
+
+Poiskani prijatelji se izračunajo in v podatkovno bazo zapišejo pod seznam z imenom `possible_friends` in `n` (privzeto 5) `ObjectId` elementov, kjer je posamezni vnos referenca na uporabnika.
