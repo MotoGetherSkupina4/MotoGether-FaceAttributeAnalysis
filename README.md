@@ -1,4 +1,4 @@
-# MotoGether-FaceAttributeAnalysis
+# MotoGether - iskanje prijateljev s pomočjo analize podatkov iz baze in profilne slike
 > Analiza profilnih slik za pridobitev različnih podatkov o uporabnikih
 
 Primarne tehnologije:
